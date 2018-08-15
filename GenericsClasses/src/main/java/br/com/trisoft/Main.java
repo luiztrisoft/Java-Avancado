@@ -1,5 +1,10 @@
 package br.com.trisoft;
 
+/**
+ * 
+ * @author Luiz
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
