@@ -11,7 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 		StreamAPI stream = new StreamAPI();
 		//stream.encadearOperações();
-		stream.getPromocaoItensAVencer(20);
+		stream.optionalProduto();
 	}
 
 }
